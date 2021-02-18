@@ -1,2 +1,2 @@
 # calculator-top
-Project made for The Odin Project
+A simple calculator app made for The Odin Project
